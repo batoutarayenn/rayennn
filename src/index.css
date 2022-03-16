@@ -1,0 +1,32 @@
+img {
+    width: 400px;
+    height: 300px;
+    margin-left: 35%;
+    border-radius: 100px;
+    margin-top: 5%;
+}
+h1 {
+    text-align: center;
+    color: rgb(216, 83, 83);
+    margin-top: 3%;
+}
+h2 {
+    text-align: center;
+    margin-top: 3%;
+}
+h3 {
+    text-align: center;
+    color: rgb(93, 93, 230);
+    margin-top: 3%;
+}
+.bttn {
+    margin-left: 46%;
+    margin-top: 5%;
+    width: 100px;
+    background-color: rgb(77, 74, 74);
+    color: white;
+}
+.bttn:hover {
+    background-color: black;
+    color: red;
+}
